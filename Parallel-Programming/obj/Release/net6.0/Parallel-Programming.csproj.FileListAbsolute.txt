@@ -1,0 +1,15 @@
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/bin/Release/net6.0/Parallel-Programming
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/bin/Release/net6.0/Parallel-Programming.deps.json
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/bin/Release/net6.0/Parallel-Programming.runtimeconfig.json
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/bin/Release/net6.0/Parallel-Programming.dll
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/bin/Release/net6.0/Parallel-Programming.pdb
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/obj/Release/net6.0/Parallel-Programming.csproj.AssemblyReference.cache
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/obj/Release/net6.0/Parallel-Programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/obj/Release/net6.0/Parallel-Programming.AssemblyInfoInputs.cache
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/obj/Release/net6.0/Parallel-Programming.AssemblyInfo.cs
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/obj/Release/net6.0/Parallel-Programming.csproj.CoreCompileInputs.cache
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/obj/Release/net6.0/Parallel-Programming.dll
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/obj/Release/net6.0/refint/Parallel-Programming.dll
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/obj/Release/net6.0/Parallel-Programming.pdb
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/obj/Release/net6.0/Parallel-Programming.genruntimeconfig.cache
+/Users/danielmarshall/Documents/GitHub/Parallel-Programming/Parallel-Programming/obj/Release/net6.0/ref/Parallel-Programming.dll
