@@ -1,22 +1,37 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Parallel_Programming;
 
-//Console.WriteLine("Hello, World again take two!");
-
-/*Basics of Task running*/
+#region Task Basics
 //var taskProgramming = new TaskBasics();
 //taskProgramming.Run();
+#endregion
 
-/*Cancelling tasks*/
+#region Canceling Tasks
 //var taskCancelling = new TaskCanceling();
 //taskCancelling.Run();
 //taskCancelling.RunParanoid();
+#endregion
 
-/*Waiting for tasks*/
+#region Task Waiting
 //var taskTime = new TaskTime();
 //taskTime.TaskThatCanBeCanceled();
 //taskTime.WaitingTask();
+#endregion
 
-/*Task Exceptions*/
-var taskExceptions = new TaskExceptions();
-taskExceptions.Run();
+#region Exceptions
+//var taskExceptions = new TaskExceptions();
+//taskExceptions.Run();
+#endregion
+
+#region Critical Section
+var criticalSection = new CriticalSection();
+//criticalSection.RunWithoutInterlock();
+//criticalSection.RunWithInterlock();
+//criticalSection.RunSpinLock();
+//criticalSection.RunRecursionSpinlock(5);
+criticalSection.RunWithMutex();
+#endregion
+
+#region Concurrent Collections
+var concurrentCollections = new ConcurrentCollections();
+#endregion 
