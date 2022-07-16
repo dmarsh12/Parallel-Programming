@@ -24,14 +24,24 @@ using Parallel_Programming;
 #endregion
 
 #region Critical Section
-var criticalSection = new CriticalSection();
+//var criticalSection = new CriticalSection();
 //criticalSection.RunWithoutInterlock();
 //criticalSection.RunWithInterlock();
 //criticalSection.RunSpinLock();
 //criticalSection.RunRecursionSpinlock(5);
-criticalSection.RunWithMutex();
+//criticalSection.RunWithMutex();
 #endregion
 
 #region Concurrent Collections
-var concurrentCollections = new ConcurrentCollections();
-#endregion 
+//var concurrentCollections = new ConcurrentCollections();
+#endregion
+
+#region Producer Consumer
+//var producerConsumer = new ProducerConsumer();
+//producerConsumer.Run();
+#endregion
+
+#region AsyncAwait
+var asyncAwait = new AsyncAwait();
+await asyncAwait.Run();
+#endregion
